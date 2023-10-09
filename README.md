@@ -13,3 +13,13 @@ New Type of Question learning has to be solved considering the movement of train
 
 
 In this type of question we consider the forward movement to bw equal to the backward movement and we consider the delta of usual speed vs the case presented 
+
+
+
+
+This type of question we consider the forward movement from the person and the backward movement from the other person to be equal to the length of the track they are moving in 
+
+![image](https://github.com/prathameshdubey/maths-repo/assets/84037936/8f0557c0-356d-4491-9f9e-3c58070c18d6)
+
+![image](https://github.com/prathameshdubey/maths-repo/assets/84037936/f806deb9-6c5b-4640-9c66-cc047764fc74)
+
