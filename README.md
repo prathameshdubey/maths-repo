@@ -28,3 +28,7 @@ This type of question we consider the forward movement from the person and the b
 ![image](https://github.com/prathameshdubey/maths-repo/assets/84037936/c27304c0-13b6-4765-810b-03bcabf7ad1a)
 
 To solve this question consider the object with no thickness (in this case lamppost to be a criteria for covering its own length ) and the platform in this case to be a representative of length of train - platform 
+
+![image](https://github.com/prathameshdubey/maths-repo/assets/84037936/b0df71b8-0425-4136-973a-10890b8c38a9)
+
+To solve this take the constant part of the equation
